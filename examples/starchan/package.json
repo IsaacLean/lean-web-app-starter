@@ -109,7 +109,7 @@
     "ljas-webpack": "^0.1.0",
     "mini-css-extract-plugin": "^2.7.6",
     "moment": "^2.29.4",
-    "mongoose": "^7.5.4",
+    "mongoose": "^8.9.5",
     "morgan": "^1.10.0",
     "postcss": "^8.4.29",
     "postcss-loader": "^7.3.3",
